@@ -25,7 +25,7 @@ const greeting = {
 
 // Social Media Links
 const socialMediaLinks = {
-  github: "https://github.com/yw4",
+  github: "https://github.com/yiyangww",
   linkedin: "https://www.linkedin.com/in/yiyangww/",
   gmail: "yiyangww0@gmail.com",
   facebook: "https://www.facebook.com/yiyangww/",
