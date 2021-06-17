@@ -109,10 +109,14 @@ const educationInfo = {
       logo: require("./assets/images/ualberta.png"),
       subHeader: "Bachelor of Science Honors in Computer Science",
       duration: "September 2016 - June 2020",
-      desc: "Participated in the research of XXX and published 3 papers.",
+      desc: "Main coursework: O-O design, Web design, Machine learning, reinforcement learning, Algorithm, Database Management, Numerical methods",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "National AP Scholar with Distinction Reward，2016",
+        "A Faculty of Science Academic Excellence Scholarship, 2016 - 17",
+        "A University of Alberta China First Year Excellence Scholarship, 2016 - 17",
+        "A University of Alberta Undergraduate Scholarship, 2017 - 18",
+        "An International Student Scholarship of University of Alberta, 2017,2018,2019"
+
       ]
     },
   ]
