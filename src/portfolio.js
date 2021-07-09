@@ -12,14 +12,14 @@ const illustration = {
 
 const greeting = {
   username: "Yiyang Wang",
-  title: "Hi all, I'm Yiyang，and I go by Yi",
+  title: "Hi all, I'm Yiyang，and I go by Alex",
   subTitle: emoji(
     "A passionate Full Stack Software Developer 🚀" +
     " having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs"+
     "and some other cool libraries and frameworks. "
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1CRhgnakTIkxzIFH4tHBuczoH7dYWRcJT/view?usp=sharing",
+    "https://drive.google.com/file/d/1C05Iwb5xk0HYFGH5bHZelEB5Db_1hlc2/view?usp=sharing",
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
