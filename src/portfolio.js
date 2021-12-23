@@ -19,7 +19,7 @@ const greeting = {
     "and some other cool libraries and frameworks. "
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1C05Iwb5xk0HYFGH5bHZelEB5Db_1hlc2/view?usp=sharing",
+    "https://drive.google.com/file/d/1mboR-YHBLv9PVJMxwtzsmGAutNiGZCfL/view?usp=sharing",
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
