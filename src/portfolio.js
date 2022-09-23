@@ -183,7 +183,7 @@ const workExperiences = {
     {
       role: "Software Developer",
       company: "Swift Charge Inc.",
-      companylogo: require("./assets/images/swift.jpg"),
+      companylogo: require("./assets/images/swift.png"),
       date: "05/2022 - Present",
       desc: "Front-end development cloud service portal, Development REST APIs linking front-end and back-end, Portal dashboard maintenance"
     }
