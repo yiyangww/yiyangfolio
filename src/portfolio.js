@@ -153,7 +153,7 @@ const workExperiences = {
       company: "Qingdao Library",
       companylogo: require("./assets/images/qdlibrary.jpeg"),
       date: "05/2017 - 09/2017",
-      desc: "mprove user interface, optimize book searching database, optimize queries.",
+      desc: "Improve user interface, optimize book searching database, optimize queries.",
       descBullets: [
         "Frontend: Javascript, CSS, HTML",
         "Backend: node.js"
@@ -167,11 +167,25 @@ const workExperiences = {
       desc: "Serve the campus by walking clients and patrolling as a measure of crime deterrence, while upholding a strict policy of non- intervention."
     },
     {
-      role: "Research student",
+      role: "Machine Learning Research",
       company: "Huawei",
       companylogo: require("./assets/images/huawei.png"),
       date: "07/2019 - 08/2019",
       desc: "Take part in the diverse research in Huawei 2012 Laboratories and implemented some practical machine learning. Analyzing cloud virtualization results."
+    },
+    {
+      role: "Website Developer",
+      company: "PhD League",
+      companylogo: require("./assets/images/phdLeague.jpg"),
+      date: "07/2020 - 04/2022",
+      desc: "Developed and maintained company website,Built and maintained back-end database"
+    },
+    {
+      role: "Software Developer",
+      company: "Swift Charge Inc.",
+      companylogo: require("./assets/images/swift.jpg"),
+      date: "05/2022 - Present",
+      desc: "Front-end development cloud service portal, Development REST APIs linking front-end and back-end, Portal dashboard maintenance"
     }
   ]
 };
